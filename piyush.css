@@ -1,0 +1,32 @@
+h1 {
+    padding: 30px;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.parent-div {
+    margin: 0 auto;
+    width: 50%;
+    height: 40vh;
+    display: flex;
+    border: 15px outset;
+    color: beige;
+    font-size: large;
+    
+}
+.child-div1{
+    background-color: brown;height:100% ;width:50%;
+    border-right:  solid black ;
+    
+}
+.child-div2{
+    background-color: rgb(114, 33, 146); width: 50%;height: 100%;
+}
+.good-habit-heading{
+    text-align: center; 
+    padding-bottom: 1rem;
+    border-bottom: 3px dashed black;
+}
+li {
+    padding-top: 10px;
+}
